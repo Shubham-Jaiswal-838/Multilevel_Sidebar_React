@@ -1,0 +1,93 @@
+[
+  {
+    "priority": 1,
+    "link": "/pages/contact_us_new",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/4489/25941ae1dc.png",
+    "field_name": "Support",
+    "key": null
+  },
+  {
+    "priority": 5,
+    "link": "/pages/ac_coins_home",
+    "icon": "https://cdn0.workadvantage.in/images/img/image/1908795/d5c4a80319.png",
+    "field_name": "A Coin Store",
+    "key": null
+  },
+  {
+    "priority": 9,
+    "link": "",
+    "icon": "https://cdn0.workadvantage.in/images/cdn_upload/cdn/4490/69cce9099f.png",
+    "field_name": "Reports",
+    "key": "reports"
+  },
+  {
+    "priority": 12,
+    "link": "/",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/3096/16e5c63dbe.png",
+    "field_name": "Poll",
+    "key": "poll"
+  },
+  {
+    "priority": 13,
+    "link": "/pages/notifications",
+    "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/4485/78ba37739d.png",
+    "field_name": "Notification",
+    "key": null
+  },
+  {
+    "priority": 13,
+    "link": "",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/6445/02d315242a.svg",
+    "field_name": "Social",
+    "key": "social"
+  },
+  {
+    "priority": 14,
+    "link": "/pages/sections?section_id=3",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/4483/148a1cbea6.png",
+    "field_name": "Redeem/Offers",
+    "key": ""
+  },
+  {
+    "priority": 15,
+    "link": "",
+    "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/4479/2085d490ea.png",
+    "field_name": "Appreciate",
+    "key": "appreciate"
+  },
+  {
+    "priority": 16,
+    "link": "/",
+    "icon": "https://cdn2.workadvantage.in/images/cdn_upload/cdn/6739/5e6bdc0ea1.svg",
+    "field_name": "Points Transfer",
+    "key": "admin_c"
+  },
+  {
+    "priority": 18,
+    "link": "/",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/4553/05a161eadb.png",
+    "field_name": "Give Award",
+    "key": "give_award"
+  },
+  {
+    "priority": 19,
+    "link": "/",
+    "icon": "https://cdn0.workadvantage.in/images/cdn_upload/cdn/5235/78a55d3308.png",
+    "field_name": "Nominate",
+    "key": "nominate"
+  },
+  {
+    "priority": 20,
+    "link": "/pages/users_budget",
+    "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/5614/c888e26f3b.png",
+    "field_name": "My Budgets",
+    "key": "budgets"
+  },
+  {
+    "priority": 21,
+    "link": "/pages/rewards_home",
+    "icon": "https://cdn0.workadvantage.in/images/cdn_upload/cdn/6439/92c45a335e.png",
+    "field_name": "Home",
+    "key": null
+  }
+]

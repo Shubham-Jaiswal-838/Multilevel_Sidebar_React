@@ -1,0 +1,240 @@
+{
+  "reports": [
+    {
+      "priority": 1,
+      "link": "/new_reports/recoginition_received_report",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "Rewards Received Report",
+      "key": null
+    },
+    {
+      "priority": 1,
+      "link": "/new_reports/appreciation_received_report",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "Appreciation Received Report",
+      "key": null
+    },
+    {
+      "priority": 1,
+      "link": "/new_reports/reedemption_report",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "Redemption Report",
+      "key": null
+    },
+    {
+      "priority": 1,
+      "link": "/new_reports/user_reports",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "User Report",
+      "key": null
+    },
+    {
+      "priority": 1,
+      "link": "/new_reports/login_report",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "Login Report",
+      "key": null
+    },
+    {
+      "priority": 6,
+      "link": "/new_reports/budget_utilization_report",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/2408/47d670c2fe.png",
+      "field_name": "Budget Utilization Report",
+      "key": null
+    },
+    {
+      "priority": 8,
+      "link": "/new_reports/login_session_report",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/2408/47d670c2fe.png",
+      "field_name": "Login Session Report",
+      "key": null
+    },
+    {
+      "priority": 13,
+      "link": "/new_reports/manager_load_report",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/2408/47d670c2fe.png",
+      "field_name": "Manager Load Report",
+      "key": null
+    },
+    {
+      "priority": 13,
+      "link": "/new_reports/manager2manager_transfer_report",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/2408/47d670c2fe.png",
+      "field_name": "Manager to Manager Transfer Report",
+      "key": null
+    },
+    {
+      "priority": 15,
+      "link": "/new_reports/dashboard",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/513040/97532cd146.png",
+      "field_name": "Report Dashboard",
+      "key": null
+    },
+    {
+      "priority": 15,
+      "link": "/new_reports/stored_value_report",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/2408/47d670c2fe.png",
+      "field_name": "Stored Value",
+      "key": null
+    }
+  ],
+  "social": [
+    {
+      "priority": 7,
+      "link": "/pages/upcoming_birthdays_anniversaries",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/4479/2085d490ea.png",
+      "field_name": "Celebration Wall",
+      "key": null
+    },
+    {
+      "priority": 8,
+      "link": "/pages/lookup",
+      "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/2016/57e962e3c1.png",
+      "field_name": "Lookup your Colleague",
+      "key": null
+    },
+    {
+      "priority": 9,
+      "link": "/pages/hall_of_fame_new",
+      "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/2013/d6ff579d66.png",
+      "field_name": "Hall of Fame",
+      "key": null
+    }
+  ],
+  "give_award": [
+    {
+      "priority": 2,
+      "link": "/pages/award_reverts_new",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/263161/058f4b7f8f.png",
+      "field_name": "Cancel Awards",
+      "key": null
+    },
+    {
+      "priority": 6,
+      "link": "/pages/gift_to_colleague",
+      "icon": "https://cdn3.workadvantage.in/images/cdn_upload/cdn/4521/e6e60cc96a.png",
+      "field_name": "Gift to Colleagues",
+      "key": null
+    },
+    {
+      "priority": 7,
+      "link": "/pages/my_awards",
+      "icon": "https://cdn1.workadvantage.in/images/cdn_upload/cdn/4553/05a161eadb.png",
+      "field_name": "Awards Received",
+      "key": null
+    },
+    {
+      "priority": 8,
+      "link": "/pages/awards_given",
+      "icon": "https://cdn2.workadvantage.in/images/img/image/258927/df7b002809.png",
+      "field_name": "Awards Given",
+      "key": null
+    },
+    {
+      "priority": 9,
+      "link": "/pages/upload_award_file",
+      "icon": "https://cdn0.workadvantage.in/images/img/image/1908795/d5c4a80319.png",
+      "field_name": "My Uploaded Award Files",
+      "key": null
+    },
+    {
+      "priority": 10,
+      "link": "/pages/bulk_csv_upload",
+      "icon": "https://cdn0.workadvantage.in/images/cdn_upload/cdn/2009/843391451e.png",
+      "field_name": "Bulk Awarding",
+      "key": null
+    },
+    {
+      "priority": 11,
+      "link": "/pages/give_award",
+      "icon": "https://cdn2.workadvantage.in/images/cdn_upload/cdn/2019/ab7bc511e4.png",
+      "field_name": "Give Award",
+      "key": null
+    }
+  ],
+  "appreciate": [
+    {
+      "priority": 8,
+      "link": "/pages/my_nonmonetary_awards",
+      "icon": "",
+      "field_name": "Appreciation Received",
+      "key": null
+    },
+    {
+      "priority": 9,
+      "link": "/pages/appreciated_list",
+      "icon": "",
+      "field_name": "Appreciated List",
+      "key": null
+    },
+    {
+      "priority": 10,
+      "link": "/pages/appreciate",
+      "icon": "",
+      "field_name": "Appreciate",
+      "key": null
+    }
+  ],
+  "nominate": [
+    {
+      "priority": 1,
+      "link": "/pages/pending_approvals",
+      "icon": "",
+      "field_name": "Pending Approvals",
+      "key": null
+    }
+  ],
+  "poll": [
+    {
+      "priority": 1,
+      "link": "/pages/poll_analytic",
+      "icon": "1",
+      "field_name": "Poll Analytics",
+      "key": null
+    },
+    {
+      "priority": 2,
+      "link": "/pages/create_poll",
+      "icon": "1",
+      "field_name": "Create Poll",
+      "key": null
+    },
+    {
+      "priority": 3,
+      "link": "/pages/poll",
+      "icon": "1",
+      "field_name": "Poll",
+      "key": null
+    }
+  ],
+  "admin_c": [
+    {
+      "priority": 3,
+      "link": "/pages/inter_manager_budget_transfer",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/629348/8ae30eb6b7.png",
+      "field_name": "Inter Manager Budget Transfer",
+      "key": null
+    },
+    {
+      "priority": 4,
+      "link": "/pages/manager_to_manager_transfer",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/629348/8ae30eb6b7.png",
+      "field_name": "Transfer Points to Manager",
+      "key": null
+    },
+    {
+      "priority": 4,
+      "link": "/rewards/manager_to_manager_balance_transfer",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/629348/8ae30eb6b7.png",
+      "field_name": "Transfer Points OLD",
+      "key": null
+    },
+    {
+      "priority": 5,
+      "link": "/pages/manager_budget_transfer_new",
+      "icon": "https://cdn3.workadvantage.in/images/img/image/629348/8ae30eb6b7.png",
+      "field_name": "Inter Budget Transfer",
+      "key": null
+    }
+  ]
+}

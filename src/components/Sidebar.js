@@ -1,19 +1,20 @@
 import SidebarItem from "./SidebarItem";
-import items from "../data/sidebar.json";
+import header from "../data/header.json";
 import { useState } from "react";
 
 export default function Sidebar() {
-  const [activeItem, setActiveItem] = useState(null);
 
   return (
     <div className="sidebar">
-      {items?.map((item, index) => (
-        <SidebarItem
-          key={index}
-          item={item}
-          activeLink={"/twitter"}
-        />
-      ))}
+      {header
+        .sort((a, b) => b.priority - a.priority)
+        ?.map((item, index) => (
+          <SidebarItem
+            key={index}
+            item={item}
+            activeLink={""}
+          />
+        ))}
     </div>
   );
 }
