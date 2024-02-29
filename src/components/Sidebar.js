@@ -15,7 +15,6 @@ export default function Sidebar() {
         <SidebarItem
           key={index}
           item={item}
-          activeLink=""
           open={openIndex === index}
           setOpen={(hasContent) => handleItemClick(index, hasContent)}
         />
